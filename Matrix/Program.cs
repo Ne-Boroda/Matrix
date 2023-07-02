@@ -14,13 +14,12 @@ class Matrix
 
     public void CreateMatrix()
     {
-        Random rnd = new Random();
-
         for (int i = 0; i < rows; i++)
         {
             for (int j = 0; j < cols; j++)
             {
-                matrix[i, j] = rnd.Next(100);
+                Console.Write("Введите элемент [{0},{1}]: ", i, j);
+                matrix[i, j] = int.Parse(Console.ReadLine());
             }
         }
     }
@@ -52,7 +51,7 @@ class Matrix
         }
 
         // вывод матрицы и результатов расчетов
-        Console.WriteLine("Матрица:");
+        Console.WriteLine("\nМатрица:");
         for (int i = 0; i < rows; i++)
         {
             for (int j = 0; j < cols; j++)
@@ -62,7 +61,9 @@ class Matrix
             Console.WriteLine();
         }
 
-        Console.WriteLine("Количество элементов, удовлетворяющих условию, и сумма этих элементов в каждой строке:");
+        Console.WriteLine("\nУсловие:состоящих из двух цифр," +
+            " разность по модулю которых равна 1 (например: 12, 21, 67, 98 и т. д.)");
+        Console.WriteLine("\nКоличество элементов, удовлетворяющих условию, и сумма этих элементов в каждой строке:");
         for (int i = 0; i < rows; i++)
         {
             Console.WriteLine("Строка {0}: {1} элементов, сумма = {2}", i + 1, count[i], sum[i]);
