@@ -1,0 +1,15 @@
+C:\ГГТУ\Practice\Matrix\Matrix\obj\Debug\net6.0\Matrix.csproj.AssemblyReference.cache
+C:\ГГТУ\Practice\Matrix\Matrix\obj\Debug\net6.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\ГГТУ\Practice\Matrix\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfoInputs.cache
+C:\ГГТУ\Practice\Matrix\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfo.cs
+C:\ГГТУ\Practice\Matrix\Matrix\obj\Debug\net6.0\Matrix.csproj.CoreCompileInputs.cache
+C:\ГГТУ\Practice\Matrix\Matrix\bin\Debug\net6.0\Matrix.exe
+C:\ГГТУ\Practice\Matrix\Matrix\bin\Debug\net6.0\Matrix.deps.json
+C:\ГГТУ\Practice\Matrix\Matrix\bin\Debug\net6.0\Matrix.runtimeconfig.json
+C:\ГГТУ\Practice\Matrix\Matrix\bin\Debug\net6.0\Matrix.dll
+C:\ГГТУ\Practice\Matrix\Matrix\bin\Debug\net6.0\Matrix.pdb
+C:\ГГТУ\Practice\Matrix\Matrix\obj\Debug\net6.0\Matrix.dll
+C:\ГГТУ\Practice\Matrix\Matrix\obj\Debug\net6.0\refint\Matrix.dll
+C:\ГГТУ\Practice\Matrix\Matrix\obj\Debug\net6.0\Matrix.pdb
+C:\ГГТУ\Practice\Matrix\Matrix\obj\Debug\net6.0\Matrix.genruntimeconfig.cache
+C:\ГГТУ\Practice\Matrix\Matrix\obj\Debug\net6.0\ref\Matrix.dll
